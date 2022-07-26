@@ -22,7 +22,7 @@ A list of technologies used within the project:
 ## Installation
 ***
 ```
-$ git clone https://github.com/OscarCubeles/Sorting-Algorithms.git
+$ git clone https://github.com/OscarCubeles/Filesystem-Management.git
 $ make
 ```
 
