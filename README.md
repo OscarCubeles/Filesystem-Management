@@ -16,8 +16,8 @@ Two sample volumes are provided in this repository, Ext2 and FAT16.bin volume fi
 ## Technologies
 ***
 A list of technologies used within the project:
-* [C Programming]
-* [File System Management]
+* [C Programming](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
+* File System Management
 
 ## Installation
 ***
